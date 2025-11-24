@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**theallmyti/theallmyti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a Diploma Computer ENginnering student who enjoys buidling useful things.
+I'm focused on improving mu skills in web development, backend systems, and AI based projects.
 
-Here are some ideas to get you started:
+------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Languages: C++, Python, JavaScript
+- Web: HTML, CSS, React
+- Backend: Node.js, FastAPI
+- Database: MySQL, Supabase
+- Tools: Git, VS Code
+
+------------------------
+
+### 🚀 Current Focus
+- Learning Full Stack Development
+
+------------------------
+
+### 📌 Projects
+- **Toshokan(Library) Cloud** - Manga Library Web App
+- Tech: JavaScript, Supabase
+
+------------------------
+
+### 🎯 Goals for 2025
+- Master Full Stack Development
+- Contribute to Open Source
+- Build real world AI applications
+
