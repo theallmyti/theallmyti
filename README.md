@@ -21,7 +21,7 @@ I'm focused on improving mu skills in web development, backend systems, and AI b
 ------------------------
 
 ### 📌 Projects
-- **Toshokan(Library) Cloud** - Manga Library Web App
+- **Manga Toshokan(Library) Cloud** - Manga Library Web App
 - Tech: JavaScript, Supabase
 
 ------------------------
