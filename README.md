@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### 👨‍💻 About Me
-I'm a Diploma Computer ENginnering student who enjoys buidling useful things.
-I'm focused on improving mu skills in web development, backend systems, and AI based projects.
+I'm a Diploma Computer Enginnering student who enjoys buidling useful things.
+I'm focused on improving my skills in web development, backend systems, and AI based projects.
 
 ------------------------
 
