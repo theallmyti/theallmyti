@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 👨‍💻 About Me
-I'm a Diploma Computer Enginnering student who enjoys buidling useful things.
+I'm a Diploma Computer Engineering student who enjoys buidling useful things.
 I'm focused on improving my skills in web development, backend systems, and AI based projects.
 
 ------------------------
@@ -23,11 +23,3 @@ I'm focused on improving my skills in web development, backend systems, and AI b
 ### 📌 Projects
 - **Manga Toshokan(Library) Cloud** - Manga Library Web App
 - Tech: JavaScript, Supabase
-
-------------------------
-
-### 🎯 Goals for 2025
-- Master Full Stack Development
-- Contribute to Open Source
-- Build real world AI applications
-
