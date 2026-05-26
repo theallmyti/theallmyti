@@ -74,9 +74,10 @@ Outside of that: building Android tools, experimenting with local LLMs, and push
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theallmyti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theallmyti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theallmyti&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theallmyti&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theallmyti&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theallmyti&theme=tokyonight&utcOffset=5.5" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=theallmyti&theme=tokyonight&hide_border=true)
 
