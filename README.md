@@ -70,7 +70,7 @@ Outside of that: building Android tools, experimenting with local LLMs, and push
 
 ---
 
-## Stats
+"""## Stats
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Outside of that: building Android tools, experimenting with local LLMs, and push
 
 </div>
 
----
+---"""
 
 <div align="center">
 <sub>If something I built helped you, a star is always appreciated.</sub>
