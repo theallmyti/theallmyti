@@ -70,21 +70,6 @@ Outside of that: building Android tools, experimenting with local LLMs, and push
 
 ---
 
-"""## Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theallmyti&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theallmyti&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theallmyti&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theallmyti&theme=tokyonight&utcOffset=5.5" />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=theallmyti&theme=tokyonight&hide_border=true)
-
-</div>
-
----"""
-
 <div align="center">
 <sub>If something I built helped you, a star is always appreciated.</sub>
 </div>
