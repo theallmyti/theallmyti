@@ -17,5 +17,3 @@
 [![Manga-Toshokan ⭐ 3](https://www.shieldcn.dev/github/stars/theallmyti/Manga-Toshokan.svg?variant=secondary&size=sm)](https://github.com/theallmyti/Manga-Toshokan) [![VaultDrop ⭐ 1](https://www.shieldcn.dev/github/stars/theallmyti/VaultDrop.svg?variant=secondary&size=sm)](https://github.com/theallmyti/VaultDrop) [![ASCII-Generator ⭐ 1](https://www.shieldcn.dev/github/stars/theallmyti/ASCII-Generator.svg?variant=secondary&size=sm)](https://github.com/theallmyti/ASCII-Generator) [![Legacy_Code_Modernization_Engine ⭐ 1](https://www.shieldcn.dev/github/stars/theallmyti/Legacy_Code_Modernization_Engine.svg?variant=secondary&size=sm)](https://github.com/theallmyti/Legacy_Code_Modernization_Engine) [![Cold-mail-generator ⭐ 1](https://www.shieldcn.dev/github/stars/theallmyti/Cold-mail-generator.svg?variant=secondary&size=sm)](https://github.com/theallmyti/Cold-mail-generator) [![transaction-tracker ⭐ 1](https://www.shieldcn.dev/github/stars/theallmyti/transaction-tracker.svg?variant=secondary&size=sm)](https://github.com/theallmyti/transaction-tracker)
 
 ---
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
