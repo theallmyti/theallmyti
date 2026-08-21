@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 460" width="860" height="460">
+
+  <!-- Background -->
+  <rect width="860" height="460" rx="12" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect width="860" height="38" rx="12" fill="#161b22"/>
+  <rect y="28" width="860" height="10" fill="#161b22"/>
+
+  <!-- Traffic light dots -->
+  <circle cx="26" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="19" r="6" fill="#28c840"/>
+
+  <!-- Window title -->
+  <text x="430" y="24" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="12" fill="#6e7681">aditya@github: ~/profile &#x2014; zsh</text>
+
+  <!-- Shell prompt -->
+  <text x="20" y="58" font-family="Courier New,Courier,monospace" font-size="12" fill="#00ff41">$ cat system.info</text>
+
+  <!-- Divider 1 -->
+  <rect x="20" y="68" width="820" height="1" fill="#1a4a1a"/>
+
+  <!-- SYSTEM.INFO header -->
+  <text x="430" y="90" text-anchor="middle" font-family="Courier New,Courier,monospace" font-size="14" fill="#00ff41" letter-spacing="3" font-weight="bold">SYSTEM.INFO</text>
+
+  <!-- Divider 2 -->
+  <rect x="20" y="102" width="820" height="1" fill="#1a4a1a"/>
+
+  <!-- Subject -->
+  <text x="30" y="122" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Subject</text>
+  <text x="152" y="122" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="122" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">Aditya</text>
+
+  <!-- Role -->
+  <text x="30" y="140" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Role</text>
+  <text x="152" y="140" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="140" font-family="Courier New,Courier,monospace" font-size="12" fill="#00ff41">AI &amp; Backend Developer</text>
+
+  <!-- Origin -->
+  <text x="30" y="158" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Origin</text>
+  <text x="152" y="158" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="158" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">Ahmedabad, Gujarat, India</text>
+
+  <!-- Education -->
+  <text x="30" y="176" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Education</text>
+  <text x="152" y="176" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="176" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">Diploma in Computer Engineering</text>
+
+  <!-- Status -->
+  <text x="30" y="194" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Status</text>
+  <text x="152" y="194" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="194" font-family="Courier New,Courier,monospace" font-size="12" fill="#ffa657">Building &#xB7; Learning &#xB7; Shipping</text>
+
+  <!-- Divider 3 -->
+  <rect x="20" y="206" width="820" height="1" fill="#1a4a1a"/>
+
+  <!-- Core.Lang -->
+  <text x="30" y="224" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Core.Lang</text>
+  <text x="152" y="224" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="224" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">Python, JavaScript, TypeScript, Java, C++</text>
+
+  <!-- Core.Frontend -->
+  <text x="30" y="242" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Core.Frontend</text>
+  <text x="152" y="242" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="242" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">React, TailwindCSS, HTML / CSS</text>
+
+  <!-- Core.Backend -->
+  <text x="30" y="260" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Core.Backend</text>
+  <text x="152" y="260" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="260" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">Node.js, Express.js, FastAPI</text>
+
+  <!-- Core.Database -->
+  <text x="30" y="278" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Core.Database</text>
+  <text x="152" y="278" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="278" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">PostgreSQL, MySQL, Redis, SQLite</text>
+
+  <!-- Core.AI -->
+  <text x="30" y="296" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Core.AI</text>
+  <text x="152" y="296" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="296" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">OpenAI / GPT, Hugging Face</text>
+
+  <!-- Core.Infra -->
+  <text x="30" y="314" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Core.Infra</text>
+  <text x="152" y="314" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="314" font-family="Courier New,Courier,monospace" font-size="12" fill="#c9d1d9">Docker, Linux, Nginx, Tailscale, Raspberry Pi</text>
+
+  <!-- Divider 4 -->
+  <rect x="20" y="328" width="820" height="1" fill="#1a4a1a"/>
+
+  <!-- Contact header -->
+  <text x="30" y="346" font-family="Courier New,Courier,monospace" font-size="11" fill="#4a7a4a">  &#x2022; contact</text>
+
+  <!-- Grid.Mail -->
+  <text x="30" y="364" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Grid.Mail</text>
+  <text x="152" y="364" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="364" font-family="Courier New,Courier,monospace" font-size="12" fill="#79c0ff">adityapprrap@gmail.com</text>
+
+  <!-- Grid.LinkedIn -->
+  <text x="30" y="382" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Grid.LinkedIn</text>
+  <text x="152" y="382" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="382" font-family="Courier New,Courier,monospace" font-size="12" fill="#79c0ff">linkedin.com/in/adityaprasad05</text>
+
+  <!-- Grid.GitHub -->
+  <text x="30" y="400" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Grid.GitHub</text>
+  <text x="152" y="400" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="400" font-family="Courier New,Courier,monospace" font-size="12" fill="#79c0ff">@theallmyti</text>
+
+  <!-- Grid.YouTube -->
+  <text x="30" y="418" font-family="Courier New,Courier,monospace" font-size="12" fill="#8b949e">Grid.YouTube</text>
+  <text x="152" y="418" font-family="Courier New,Courier,monospace" font-size="12" fill="#1a4a1a">........................</text>
+  <text x="334" y="418" font-family="Courier New,Courier,monospace" font-size="12" fill="#79c0ff">@theall_myti</text>
+
+  <!-- Divider 5 -->
+  <rect x="20" y="432" width="820" height="1" fill="#1a4a1a"/>
+
+  <!-- Footer line -->
+  <text x="30" y="450" font-family="Courier New,Courier,monospace" font-size="11" fill="#4a7a4a">  &#xBB; More about me &amp; projects below in README &#x2193;</text>
+
+  <!-- Blinking cursor -->
+  <rect x="354" y="440" width="7" height="11" fill="#00ff41">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>
