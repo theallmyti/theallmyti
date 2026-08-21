@@ -14,19 +14,7 @@
 
 <br/>
 
----
 
-<div align="center">
-
-### Aditya's GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theallmyti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theallmyti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
