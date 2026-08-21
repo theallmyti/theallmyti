@@ -41,14 +41,44 @@
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech |
-|:-----------|:--------------|:--------|
-| [**Mirachi**](https://github.com/theallmyti/mirachi) | AI ecosystem for intelligent assistants, automation & self-hosted AI tools | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| [**Odysseus**](https://github.com/theallmyti/odysseus) | Self-hosted AI assistant powered by NVIDIA NIM with streaming chat & tool execution | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| [**Home Server**](https://github.com/theallmyti/home-server) | Personal cloud - Jellyfin, Immich, ARR stack & remote services on Raspberry Pi | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![RPi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) |
-| [**ISL Assistant**](https://github.com/theallmyti/isl-translator) | SIH project enabling real-time communication via Indian Sign Language | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| [**Dashboard**](https://github.com/theallmyti/dashboard) | Modern Docker monitoring dashboard with telemetry, service status & analytics | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| [**MICS**](https://github.com/theallmyti/mics) | Self-hosted music backend with metadata, streaming utilities & automation | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theallmyti/VaultDrop">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=VaultDrop&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theallmyti/Manga-Toshokan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=Manga-Toshokan&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theallmyti/personal-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=personal-website&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theallmyti/CodeQuest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=CodeQuest&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theallmyti/AirGuard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=AirGuard&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/theallmyti/ASCII-Generator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=ASCII-Generator&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
