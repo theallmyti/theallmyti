@@ -1,4 +1,4 @@
-﻿<!-- Animated Typing Header -->
+<!-- Animated Typing Header -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=Hi+There%21+I%27m+Aditya+%F0%9F%91%8B;AI+%26+Backend+Developer;Building+AI+%26+Self-Hosted+Systems;Open+Source+%26+Self-Hosting+Enthusiast)](https://git.io/typing-svg)
@@ -45,11 +45,6 @@
 </div>
 
 <br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theallmyti&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="100%"/>
-</div>
 
 ---
 
