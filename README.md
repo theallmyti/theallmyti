@@ -41,44 +41,14 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theallmyti/VaultDrop">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=VaultDrop&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theallmyti/Manga-Toshokan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=Manga-Toshokan&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theallmyti/personal-website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=personal-website&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theallmyti/CodeQuest">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=CodeQuest&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theallmyti/AirGuard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=AirGuard&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/theallmyti/ASCII-Generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=theallmyti&repo=ASCII-Generator&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+| 🚀 Project | 📝 Description | 🛠️ Tech |
+|:-----------|:--------------|:--------|
+| [**VaultDrop**](https://github.com/theallmyti/VaultDrop) | Android app for downloading, bookmarking, and previewing Instagram/YouTube links | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| [**Manga-Toshokan**](https://github.com/theallmyti/Manga-Toshokan) | Lightweight manga tracking & library web app with Android APK via Capacitor | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**personal-website**](https://github.com/theallmyti/personal-website) | My personal portfolio website and interactive resume | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**AirGuard**](https://github.com/theallmyti/AirGuard) | TypeScript-based project for monitoring and security | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**CodeQuest**](https://github.com/theallmyti/CodeQuest) | JavaScript-based development project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**ASCII-Generator**](https://github.com/theallmyti/ASCII-Generator) | Python utility for generating ASCII art from images | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 </div>
 
