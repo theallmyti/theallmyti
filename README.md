@@ -16,22 +16,21 @@
 
 ---
 
-<!-- GitHub Stats -->
 <div align="center">
 
 ### Aditya's GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=theallmyti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theallmyti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Most Used Languages"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theallmyti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theallmyti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117#gh-dark-mode-only)
 
 </div>
 
 <br/>
 
-<!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=theallmyti&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak"/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=theallmyti&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
 </div>
 
 <br/>
